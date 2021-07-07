@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>Moscow</item>
+        <item>Sankt-Peterbug</item>
+        <item>Ekaterinburg</item>
+        <item>Novosibirsk</item>
+        <item>Samara</item>
+    </string-array>
+
+    <integer-array name="coat_of_arms_imgs">
+        <item>@drawable/android1</item>
+        <item>@drawable/android2</item>
+        <item>@drawable/android3</item>
+        <item>@drawable/android4</item>
+        <item>@drawable/android5</item>
+    </integer-array>
+</resources>
